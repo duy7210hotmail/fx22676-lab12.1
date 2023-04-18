@@ -1,5 +1,24 @@
-.bg-img1 {
+.bg-slider-1 {
 	background-color: #000;
 	background-size: cover;
-	background-img: url("./img/bg-1.jpg");
+	background-image: url("img/bg-1.jpg");
+	height: 500px;
+}
+
+#carouselExampleControls {
+	height: 500px;
+}
+
+.bg-slider-2 {
+	background-color: #000;
+	background-size: cover;
+	background-image: url("img/bg-2.jpg");
+	height: 500px;
+}
+
+.bg-slider-3 {
+	background-color: #000;
+	background-size: cover;
+	background-image: url("img/bg-3.jpg");
+	height: 500px;
 }
